@@ -1,0 +1,116 @@
+
+[{
+ "name": "fold_v2l_8mer_template_hit_0_chains_g_b_d_a_e_c_h_f.cif",
+ "queryIndices": [
+  2,
+  4,
+  9,
+  8,
+  5,
+  3,
+  1,
+  7,
+  10,
+  6,
+  0
+ ],
+ "templateIndices": [
+  2,
+  4,
+  9,
+  8,
+  5,
+  3,
+  1,
+  7,
+  10,
+  6,
+  0
+ ]
+}
+,{
+ "name": "fold_v2l_8mer_template_hit_1_chains_g_b_d_a_e_c_h_f.cif",
+ "queryIndices": [
+  2,
+  4,
+  9,
+  8,
+  5,
+  3,
+  1,
+  7,
+  10,
+  6,
+  0
+ ],
+ "templateIndices": [
+  2,
+  4,
+  9,
+  8,
+  5,
+  3,
+  1,
+  7,
+  10,
+  6,
+  0
+ ]
+}
+,{
+ "name": "fold_v2l_8mer_template_hit_2_chains_g_b_d_a_e_c_h_f.cif",
+ "queryIndices": [
+  2,
+  4,
+  9,
+  8,
+  5,
+  3,
+  1,
+  7,
+  10,
+  6,
+  0
+ ],
+ "templateIndices": [
+  2,
+  4,
+  9,
+  8,
+  5,
+  3,
+  1,
+  7,
+  10,
+  6,
+  0
+ ]
+}
+,{
+ "name": "fold_v2l_8mer_template_hit_3_chains_g_b_d_a_e_c_h_f.cif",
+ "queryIndices": [
+  2,
+  9,
+  4,
+  5,
+  8,
+  3,
+  1,
+  7,
+  10,
+  6
+ ],
+ "templateIndices": [
+  121,
+  128,
+  123,
+  124,
+  127,
+  122,
+  120,
+  126,
+  129,
+  125
+ ]
+}
+]

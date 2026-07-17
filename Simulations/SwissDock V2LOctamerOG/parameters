@@ -1,0 +1,7 @@
+Date: Tue 20 Jan 2026 18:16:58 
+Ligand: CCCCCCCCOC1OC(CO)C(O)C(O)C1O
+Method: Vina
+Target: V2L_8mer_Alphafold_chainA.pdb
+Sampling exhaustivity: 4
+Box size: 30 30 30
+Box center: 0.0 2.0 1.0
